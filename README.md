@@ -1,5 +1,5 @@
 ## Overview 
-The current solution includes two approaches to word occurrence frequency counters. The first is the naiv one, which is based on an undordered_map.  The second solution is based on prefix trie and is preferred due to its shorter runtime.The runtime evaluation was carried out using the Google Benchmark library, and the results can be seen above.
+The current solution includes two approaches to word occurrence frequency counters. The first is the naiv one, which is based on an undordered_map.  The second solution is based on prefix trie and is preferred due to its shorter runtime.The runtime evaluation was carried out using the Google Benchmark library.
 
 
 ## Installation and build instruction
