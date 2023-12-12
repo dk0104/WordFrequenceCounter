@@ -1,14 +1,10 @@
 ## Overview 
-***
 The current solution includes two approaches to word occurrence frequency counters. The first is the naiv one, which is based on an undordered_map.  The second solution is based on prefix trie and is preferred due to its shorter runtime.The runtime evaluation was carried out using the Google Benchmark library, and the results can be seen above.
-***
 
 
 ## Installation and build instruction
 ### Setup
-***
 conan install . --output-folder=build --build=missing
-***
 
 ### Config and Build 
 
@@ -17,7 +13,6 @@ cmake --build build'
 
 ### Targets
 There is multiple targets configured for each application
-
 freq_bin which build result is located in  /build/src/freq
 freq_Tests -> /build/test/freq_Tests
 freq_Benchmark -> /build/benchmark/freq_Benchmark
