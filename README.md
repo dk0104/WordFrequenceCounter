@@ -37,7 +37,7 @@ freq_Benchmark -> /build/benchmark/freq_Benchmark
 1 time
 1 to 1 walrus 
 
-### Resume
+### Benchmark results
 
 2023-05-17T13:22:06+02:00 Running ./freq_Benchmark
 RUN ON (16 X 1700 MHZ CPU S)
